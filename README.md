@@ -9,6 +9,11 @@ This notebook demonstrates how to run Stable Diffusion 3 locally using a Python 
 - Python 3.11.8 (3.11+ should be fine)
 - `pyenv` for managing Python versions
 - `pip` for managing Python packages
+- Authozation to the Huggingface repo:
+Visit https://huggingface.co/stabilityai/stable-diffusion-3-medium and submit the form for access for your HF account.
+- You can obtain a token from your Hugging Face account settings. https://huggingface.co/settings/tokens
+- Jupyter Notebook
+
 
 ### Setting Up Python PyEnv Environment
 
@@ -67,7 +72,7 @@ The notebook requires a Hugging Face token for authentication. The token can be 
    HUGGINGFACE_TOKEN=your_hugging_face_token_here
    ```
 
-   Replace `your_hugging_face_token_here` with your actual Hugging Face token. You can obtain a token from your Hugging Face account settings.
+   Replace `your_hugging_face_token_here` with your actual Hugging Face token. You can obtain a token from your Hugging Face account settings. https://huggingface.co/settings/tokens
 
 ### Running the Notebook
 
