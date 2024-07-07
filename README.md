@@ -112,11 +112,11 @@ If you encounter any issues, consider the following steps:
 
 For further assistance, feel free to open an issue in the repository.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes.
 
-### License
+## License
 
 This project is licensed under the MIT License.
 
