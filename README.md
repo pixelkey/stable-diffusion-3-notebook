@@ -80,7 +80,7 @@ Once the installation is complete, you can proceed with running the notebook loc
    This will open a browser window or tab with the Jupyter Notebook interface.
 
 2. **Open the Notebook**:
-   Navigate to the notebook file (e.g., `stable_diffusion3_notebook.ipynb`) and open it.
+   Navigate to the notebook file (e.g., `sd3.ipynb`) and open it.
 
 3. **Run the Cells**:
    Follow the instructions within the notebook to run the cells and generate images using Stable Diffusion 3.
