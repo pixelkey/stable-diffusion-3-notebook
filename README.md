@@ -11,7 +11,7 @@ This notebook demonstrates how to run Stable Diffusion 3 locally using a Python 
 - `pip` for managing Python packages
 - Authozation to the Huggingface repo:
 Visit https://huggingface.co/stabilityai/stable-diffusion-3-medium and submit the form for access for your HF account.
-- You can obtain a token from your Hugging Face account settings. https://huggingface.co/settings/tokens
+- You can obtain a token from your Hugging Face account settings. Read access is all you need. https://huggingface.co/settings/tokens
 - Jupyter Notebook
 
 
